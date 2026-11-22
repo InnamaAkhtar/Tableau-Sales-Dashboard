@@ -47,7 +47,7 @@ These filters allow users to interact with the dashboard and explore sales perfo
 - Interactive Filters
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](Sales-Dashboard.png)
+![Sales Dashboard](https://github.com/InnamaAkhtar/Tableau-Sales-Dashboard/blob/main/Image..png)
 
 ## 👩‍💻 Author
 Created as a Data Analyst portfolio project to practice data visualization, KPI analysis, and interactive dashboard development using Tableau.
