@@ -50,4 +50,6 @@ These filters allow users to interact with the dashboard and explore sales perfo
 ![Sales Dashboard](https://github.com/InnamaAkhtar/Tableau-Sales-Dashboard/blob/main/Image..png)
 
 ## 👩‍💻 Author
+INNAMA AKHTAR
+
 Created as a Data Analyst portfolio project to practice data visualization, KPI analysis, and interactive dashboard development using Tableau.
